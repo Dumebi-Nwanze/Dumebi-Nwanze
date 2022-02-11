@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Dumebi-Nwanze
 - 👀 I’m interested in Web and Mobile App development
-- 🌱 I’m currently learning React and Flutter
+- 🌱 I currently work with Flutter while still learning React
 - 💞️ I’m looking to collaborate on related projects
 - 📫 How to reach me -> davisnwanze7@gmail.com
 
