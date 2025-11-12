@@ -1,6 +1,6 @@
 ### 👋 Hey there, I'm Dumebi Nwanze
 
-I'm a **Product Engineer** who builds end-to-end web and mobile experiences — from idea to production.  
+I'm a **Product Engineer** who builds end-to-end web and mobile experiences.  
 I care about clean design, practical architecture, and delivering software that actually works in the real world.
 
 - 💻 I work across **frontend, backend, and mobile** — mainly with **Next.js**, **React**, **React Native** and **Flutter**.  
